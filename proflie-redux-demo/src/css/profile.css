@@ -1,0 +1,48 @@
+.title {
+    padding: 5px 0 10px 10px;
+    margin: 0;
+    border-bottom: 1px solid gray;
+}
+.text-label {
+    text-align: right;
+    color: black;
+}
+.row {
+    width: 100%;
+    display: block;
+}
+.col-md-12 {
+    width: 100%;
+}
+.col-md-6 {
+    width: 47%;
+    display: inline-block;
+}
+.m-2 {
+    margin: 10px;
+}
+.p-2 {
+    padding: 10px;
+}
+.m-1 {
+    margin: 5px;
+}
+.p-1 {
+    padding: 5px;
+}
+.btn {
+    text-align: center;
+    border-radius: 5px;
+    font-size: 14px;
+    background-color: darkgreen;
+    color: white;
+    font-weight: bold;
+    width: 10%;
+    cursor: pointer;
+}
+.submit-button {
+    text-align: center;
+}
+.text-input {
+    margin: 3px;
+}
